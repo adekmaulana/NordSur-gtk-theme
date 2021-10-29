@@ -1,8 +1,10 @@
-<h1 align="center"> WhiteSur GTK Theme </h1>
+<h1 align="center"> NordSur GTK Theme </h1>
 <p align="center"> <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/macbook.png"/> </p>
 
 <br>
 <p align="center"> <b> A macOS BigSur-like theme for your GTK apps </b> </p>
+
+<p align="center"> <b> Currently unstable and only for dark variant </b> </p>
 <br>
 
 # Installation is easy!
